@@ -3,3 +3,6 @@
 
 ### Address to hex
 `utils.hexZeroPad(utils.getAddress(address), 32)`
+
+### Websocket
+https://gist.github.com/SZharkov/7c5242bbc024eadab7d56539347985ad
